@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... a lot 
 - 🌱 I’m currently learning ... git and systems programming
 - 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... raamus2000@tamu.edu
+- 📫 How to reach me ... raamus2000@tamu.edu (school) or ram.pangaluri@gmail.com (personal/work)
 - Projects I've worked on/ contributed to: https://github.com/settings/repositories
 
 <!---
